@@ -1,0 +1,12 @@
+{
+  "channels": [
+    {
+      "name": "@example_channel_1",
+      "enabled": false
+    },
+    {
+      "name": "https://t.me/example_channel_2",
+      "enabled": false
+    }
+  ]
+}
