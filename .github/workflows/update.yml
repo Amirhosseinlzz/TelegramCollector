@@ -1,0 +1,58 @@
+name: Update VPN Subscription
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-vpn-subscription
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
+
+      - name: Collect and update subscription file
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
+          CHANNELS_FILE: channels.json
+          OUTPUT_FILE: subscriptions.txt
+          MESSAGE_LIMIT_PER_CHANNEL: "100"
+          MAX_FLOOD_WAIT_SECONDS: "60"
+          REQUEST_DELAY_SECONDS: "0.5"
+          ALLOW_EMPTY_OUTPUT: "false"
+          LOG_LEVEL: INFO
+        run: python main.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- subscriptions.txt; then
+            echo "No subscription changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add subscriptions.txt
+          git commit -m "Update VPN subscription configs"
+          git push
