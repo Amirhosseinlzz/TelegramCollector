@@ -1,12 +1,16 @@
 {
   "channels": [
     {
-      "name": "@example_channel_1",
-      "enabled": false
+      "name": "https://t.me/filembad",
+      "enabled": true
     },
     {
-      "name": "https://t.me/example_channel_2",
-      "enabled": false
+      "name": "https://t.me/iproxy_Meli",
+      "enabled": true
+    },
+    {
+      "name": "https://t.me/SPARTAN_YT",
+      "enabled": true
     }
   ]
 }
