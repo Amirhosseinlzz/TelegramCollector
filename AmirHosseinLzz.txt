@@ -1,3 +1,4 @@
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#%40filembad
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%F0%9F%A7%B8%40V2rayATM
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52066?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=qeqa80qo4zuoybn5#%F0%9F%A7%B8%40V2rayATM
 hysteria2://eltgrek81o6w5cd4@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#%F0%9F%A7%B8%40V2rayATM
@@ -451,6 +452,7 @@ vless://8329974c-dc5a-4c62-b064-468ece75dd7b@bot.sobhanpor.ir:433?security=tls&e
 vless://8329974c-dc5a-4c62-b064-468ece75dd7b@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#%40filembad
 vless://83f61e10-2242-4e33-82fe-045a3e58e3d2@sos.oakcup.ir:2052?encryption=none&security=none&type=ws&host=test.naicoacademy.ir&path=%2Fapi#%40filembad
 vless://83f61e10-2242-4e33-82fe-045a3e58e3d2@sos.oakcup.ir:2052?encryption=none&security=none&type=ws&host=test.naicoacademy.ir&path=%2Fapi#%F0%9F%A7%B8%40V2rayATM
+vless://83f61e10-2242-4e33-82fe-045a3e58e3d2@sos.oakcup.ir:2052?path=%2Fapi&security=&encryption=none&host=test.naicoacademy.ir&type=ws#%40filembad
 vless://83f61e10-2242-4e33-82fe-045a3e58e3d2@sos.oakcup.ir:2052?path=%2Fapi&security=none&encryption=none&host=test.naicoacademy.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%20%7C%20%40ConfigTen
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5.oncloudnineservicestreang.com&fp=chrome&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250&type=tcp&headerType=none#%40filembad
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#%40filembad
@@ -666,7 +668,6 @@ vless://ce201caa-b81c-4d51-8e75-f6df34bf06f6@zeus-panel-198klk.ahmad-7761376.wor
 vless://ce201caa-b81c-4d51-8e75-f6df34bf06f6@zeus-panel-198klk.ahmad-7761376.workers.dev:8443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-198klk.ahmad-7761376.workers.dev&fp=android&type=ws&allowInsecure=0&sni=zeus-panel-198klk.ahmad-7761376.workers.dev#%40FixPingBot
 vless://ce201caa-b81c-4d51-8e75-f6df34bf06f6@zeus-panel-198klk.ahmad-7761376.workers.dev:8880?path=%2FZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-198klk.ahmad-7761376.workers.dev&fp=android&type=ws&sni=zeus-panel-198klk.ahmad-7761376.workers.dev#%40FixPingBot
 vless://ce9f5054-d7c4-400f-7baa-199006488101@s2.zynavo.ir:2087?encryption=none&security=tls&sni=cdn.zynavo.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&allowInsecure=1&pcs=02dbd988f959ab1da732a2ededea00a5907badd9ec17f77e2ab72658ddcb8454&type=xhttp&host=cdn.zynavo.ir&path=%2FBetForward&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%A7%B8%40V2rayATM
-vless://cf06fc75-f565-43d3-aeb0-44861687e27e@31.56.222.233:8443?fp=chrome&encryption=none&pbk=s9Pcb88H6yJFIJKsQhW0JeZyfcJdinD5RTk5Ly9tN1A&type=xhttp&mode=auto&security=reality&sni=www.samsung.com&sid=cf&path=%2F&spx=%2F&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D#%D8%A7%D9%87%D8%AF%D8%A7%DB%8C%DB%8C%E2%9D%A4%EF%B8%8F
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40filembad
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40filembad
@@ -720,6 +721,7 @@ vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel-
 vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?path=%2F&security=none&encryption=none&host=rpsvpn3.xchitozx.org&type=ws#%40Spartan_YT
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%A7%B8%40V2rayATM
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
