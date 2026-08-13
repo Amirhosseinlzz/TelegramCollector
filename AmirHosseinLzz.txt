@@ -89,6 +89,8 @@ ss://YWVzLTI1Ni1nY206REw3M0dmT1J4OTk2NzRzdDJSbCtKdGs3WDFnVlFvdk1TdndWSUx6VC8wRT0
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#%40SPARTAN_YT
 ss://YWVzLTI1Ni1nY206TjJGbU9HVXhPRGN4WTJZeE1UZzRaVGd3TWpreU1EWTVaV0ppWXpReg@193.176.242.55:9118?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
 ss://YWVzLTI1Ni1nY206TkRJNU5HTTRaR1l6TkdFNU1tWXhNemN5WVRSbU1UTmtOR1ZqTmpndw@95.38.166.233:9147?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
+ss://YWVzLTI1Ni1nY206TnpsbE5tWXlOMkkwTTJRMk5UQmxaamd5WkdRNFpqZGtOR0poTkRnNA@193.176.243.59:9118?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
+ss://YWVzLTI1Ni1nY206TnpsbE5tWXlOMkkwTTJRMk5UQmxaamd5WkdRNFpqZGtOR0poTkRnNA@193.176.243.59:9118?prefix=%16%03%01%00%C2%A8%01%01#pt-cf23dbd145
 ss://YWVzLTI1Ni1nY206WXpZM1kySmhZakF5TjJFeU9ESXlNREF5TjJZMU9ESTJNMlV5TW1ZMw@iran.tonanimalia.com:11102#%F0%9F%87%A9%F0%9F%87%AA%40SPARTAN_YT
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#%40filembad
 ss://YWVzLTI1Ni1nY206ZjRlN2NjM2ItMWZkZS00ODYxLTlhN2UtMjk0NzI4ZDhhMTZh@uk1.connectsuite.org:2083#%40Spartan_YT
@@ -305,7 +307,6 @@ vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?mode=gun&security
 vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.132.196:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-dew-c3ed.48-97c.workers.dev&type=ws#%40filembad
 vless://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%40Spartan_YT
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?path=%2F&security=none&encryption=none&type=ws#%40filembad
-vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@172.65.90.53:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=blue-rice-7142.30-346.workers.dev&packetEncoding=xudp#%40filembad
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.55.229:8880?path=/pyip&security=&encryption=none&host=tiny-feather-4c41.227.workers.dev&type=ws#%40filembad
 vless://33376978-b7e4-455b-b7db-e6a5d87aa8ed@ips.list.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SPARTAN_YT
 vless://348b9173-d353-48d7-82bc-8f15d4c7cd37@18.194.140.98:443?security=none&encryption=none&headerType=none&type=tcp#%40SPARTAN_YT
@@ -414,7 +415,6 @@ vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?flow=xtls-rprx-v
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?security=reality&encryption=none&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&headerType=none&fp=firefox&spx=%2FU70oF9OsnzuRflI&type=tcp&flow=xtls-rprx-vision&sni=g.co&sid=8f5ed0#%40filembad
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&headerType=none&fp=chrome&spx=/U70oF9OsnzuRflI&type=tcp&flow=xtls-rprx-vision&sni=g.co&sid=8f5ed0#%40filembad
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&sid=8f5ed0&sni=g.co&spx=/U70oF9OsnzuRflI#%40filembad
-vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@85.192.48.26:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl.convert-flow.net&sid=00a61d55a07de885#%40filembad
 vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#%40Spartan_YT
 vless://5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d@69.46.46.16:443?encryption=none&security=tls&sni=rvg-production-6e30.up.railway.app&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-6e30.up.railway.app&path=%2Fws%2F5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d#%F0%9F%A7%B8FreeConfigs
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#%40SPARTAN_YT
@@ -595,7 +595,6 @@ vless://8f74fd30-4e86-48fe-98d1-bf4ac8319c17@193.164.149.83:989?security=&encryp
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?fp=firefox&encryption=none&flow=xtls-rprx-vision&sni=fr.sellflow.org&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&type=tcp#%40filembad
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%40filembad
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&headerType=none&encryption=none&fp=firefox&flow=xtls-rprx-vision&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#%40filembad
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%40filembad
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&encryption=none&fp=firefox&security=reality&type=tcp&headerType=none#%40filembad
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#%40Spartan_YT
