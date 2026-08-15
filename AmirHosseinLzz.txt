@@ -392,6 +392,7 @@ vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?security=none&encr
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%40filembad
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#%40SPARTAN_YT
 vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&allowInsecure=0&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#%40Spartan_YT
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none&encryption=none&headerType=none&type=tcp#%40SPARTAN_YT
@@ -422,7 +423,6 @@ vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?headerType=none&encr
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://699dde7d-4a08-4dd0-b081-7a87407a23fc@3.68.4.250:443?security=none&headerType=none&type=tcp&encryption=none#%40filembad
 vless://6a7791e4-5f66-4be8-81a4-8d718754739c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%40Spartan_YT
-vless://6b222876-01c4-4fcf-b8a3-68b522c83736@66.33.22.221:26734?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=jQWpTMgcw5nTx0zzqXdibPripB7qNUQC5b8X7ghx_GY&fp=randomized&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=f86f2b5fc27216#%40filembad
 vless://6c8a3588-ff53-473f-b15e-87ddf7f3e3ad@172.197.218.137:445?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#%40SPARTAN_YT
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#%40SPARTAN_YT
@@ -685,6 +685,7 @@ vless://c805b3d0-086b-44e8-81d0-ed6ad0ca8f8d@193.38.235.129:443?flow=xtls-rprx-v
 vless://c805b3d0-086b-44e8-81d0-ed6ad0ca8f8d@193.38.235.129:443?security=reality&encryption=none&pbk=LTnSFpfeU48eRXGHJdArwhxw4S0q-toyNKp4JUsjPhA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=microsoft.net#%40filembad
 vless://c848ec35-ac1d-4a55-9a98-22e7f79ac7bd@82.40.62.168:11000?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=NPDxcaYCDKk1c4I1_Gke5HWthWm5QSohP00x1sCs-Tk&fp=ios&sni=amp-api-edge.apps.apple.com&spx=%2F#%40filembad
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?type=tcp&encryption=none&security=none#%40filembad
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#%40SPARTAN_YT
@@ -776,15 +777,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.222.37:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.222.37:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%A7%B8FreeConfigs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22223?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22223?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22223?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%A7%B8FreeConfigs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22224?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%A7%B8FreeConfigs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22222?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -978,7 +976,6 @@ vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaEZvcmNlUXVlcnkiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3NjQwNTQ1NS00Njc5LTRhOGQtOTRkNi02NGEzMzgxODdjOGEiLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0IjoidGNwIiwicGFja2V0cyI6IiIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaEZvcmNlUXVlcnkiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNTVkZTQwZC1jNWQwLTQwNjQtYjEyNC05NDliYTI4NGMzYjQiLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0IjoidGNwIiwicGFja2V0cyI6IiIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaEZvcmNlUXVlcnkiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0IjoidGNwIiwicGFja2V0cyI6IiIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkBmaWxlbWJhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==
 vmess://eyJhZGQiOiIxNTQuMzcuMjIzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYxYWM1YzgyLTAwYTQtNDAwYi1iYjIwLTUzMGM5MWI3YzViYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicG9ydCI6IjUyMDgwIiwicHMiOiI1MCDar9uM2q8gNDkg2KohINiq2LPYqiDYsdin24zar9in2Ybwn6SpVElDS1YyQk9UQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
